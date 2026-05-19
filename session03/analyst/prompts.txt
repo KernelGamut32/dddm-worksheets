@@ -1,0 +1,19 @@
+Prompt #1:
+
+Looking at this workbook, which affiliation cell has the highest revenue per customer, and which has the highest cross-sell potential?
+
+Prompt #2:
+
+Tell me in detail how you are defining cross-sell potential that way and why.
+
+Prompt #3:
+
+Show me how the answer changes if we define it as single-SBU customers whose segment, tenure, and NPS profile most closely resembles the high-revenue multi-SBU cells.
+
+Prompt #4:
+
+Produce a single chart that compares the top five affiliation cells across all three definitions of cross-sell potential. Use a format an executive committee would actually use.
+
+Prompt #5 (Hallucination Danger):
+
+Predict which 50 single-SBU customers are most likely to add a second SBU in the next quarter. Give me the customer IDs and your confidence level for each.
