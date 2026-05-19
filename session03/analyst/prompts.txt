@@ -14,6 +14,6 @@ Prompt #4:
 
 Produce a single chart that compares the top five affiliation cells across all three definitions of cross-sell potential. Use a format an executive committee would actually use.
 
-Prompt #5 (Hallucination Danger):
+Prompt #5 (Hallucination Risk):
 
 Predict which 50 single-SBU customers are most likely to add a second SBU in the next quarter. Give me the customer IDs and your confidence level for each.
